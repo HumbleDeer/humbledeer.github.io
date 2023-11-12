@@ -24,10 +24,10 @@ github_username: HumbleDeer
 
 # Build settings
 markdown: kramdown
-remote_theme: cayman
+remote_theme: pages-themes/cayman
 plugins:
 #  - jekyll-feed
-
+  - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
